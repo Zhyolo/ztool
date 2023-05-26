@@ -1,0 +1,6 @@
+dependencies:
+  esp_lcd_touch:
+    version: ^1.0
+  idf: '>=4.4.2'
+description: ESP LCD Touch GT911 - touch controller GT911
+version: 1.0.0
